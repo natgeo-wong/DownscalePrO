@@ -1,4 +1,6 @@
-# DownscalePrO
+# Downscale PRecipitation Observations
+
+Downscale Precipitation Observations like a Pro (DownscalePro, get it?)
 
 This code base is using the [Julia Language](https://julialang.org/) and
 [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
