@@ -3,7 +3,7 @@
 caseid = 'Statistics',
 
 caseid_restart = 'Spinup',
-case_restart = 'RRTM',
+case_restart = 'LARGE',
 
 dx = 2000.,
 dy = 2000.,
