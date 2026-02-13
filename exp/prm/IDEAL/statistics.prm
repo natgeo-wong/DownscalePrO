@@ -73,6 +73,7 @@ nsave2D      = 60,
 nsave2Dstart = 0,
 nsave2Dend   = 999999999,
 save2Davg    = .true.,
+save2Dsep    = .true.,
 
 nsave3D      = 60,
 nsave3Dstart = 99999999,
